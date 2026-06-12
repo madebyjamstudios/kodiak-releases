@@ -11,3 +11,9 @@ for macOS with DeckLink output.
 - `appcast.xml` is the [Sparkle](https://sparkle-project.org) update feed the app
   checks automatically — don't edit it by hand; `release.sh` in the source repo
   maintains it.
+
+## Acknowledgements
+
+Kodiak's automatic updates use [Sparkle](https://sparkle-project.org),
+© Andy Matuschak and the Sparkle Project contributors, used under the
+[MIT License](https://github.com/sparkle-project/Sparkle/blob/2.x/LICENSE).
