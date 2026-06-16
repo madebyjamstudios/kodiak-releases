@@ -4,14 +4,6 @@
         <title>Kodiak</title>
         <!-- ITEMS -->
         <item>
-            <title>Kodiak 0.1.2-alpha</title>
-            <pubDate>Tue, 16 Jun 2026 19:24:10 +0000</pubDate>
-            <sparkle:version>304</sparkle:version>
-            <sparkle:shortVersionString>0.1.2-alpha</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/madebyjamstudios/kodiak-releases/releases/download/v0.1.2-alpha/Kodiak-0.1.2-alpha.zip" sparkle:edSignature="3UA/PIU2NprHnfN666F75fAho0TP4mlRNPsZL1LzDUfCNGNhNiXbkDp80Zm3WDCtdhUGfDSFn31IXmGM/lWjDA==" length="2402412" type="application/octet-stream"/>
-        </item>
-        <item>
             <title>Kodiak 0.1.1-alpha</title>
             <pubDate>Fri, 12 Jun 2026 06:46:09 +0000</pubDate>
             <sparkle:version>78</sparkle:version>
