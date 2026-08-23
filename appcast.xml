@@ -9,7 +9,7 @@
             <sparkle:version>915</sparkle:version>
             <sparkle:shortVersionString>0.1.4-alpha</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/madebyjamstudios/kodiak-releases/releases/download/v0.1.4-alpha/Kodiak-0.1.4-alpha.zip" sparkle:edSignature="9nK+/soCMc7W/qeVUV2d4jteNUvEzqQEJVKLL9Wg7r+DbDuOGdKiG87oJyh1+XL4muYPQIkthVaKfR0waAt8Dg==" length="6452337" type="application/octet-stream"/>
+            <enclosure url="https://github.com/mbjstudios/kodiak-releases/releases/download/v0.1.4-alpha/Kodiak-0.1.4-alpha.zip" sparkle:edSignature="9nK+/soCMc7W/qeVUV2d4jteNUvEzqQEJVKLL9Wg7r+DbDuOGdKiG87oJyh1+XL4muYPQIkthVaKfR0waAt8Dg==" length="6452337" type="application/octet-stream"/>
         </item>
         <item>
             <title>Kodiak 0.1.3-alpha</title>
@@ -17,7 +17,7 @@
             <sparkle:version>865</sparkle:version>
             <sparkle:shortVersionString>0.1.3-alpha</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/madebyjamstudios/kodiak-releases/releases/download/v0.1.3-alpha/Kodiak-0.1.3-alpha.zip" sparkle:edSignature="MQA/aVBLy9DKoVMz4XoQulsti2pSTLJfT0aYrj0R0x5qfZbvJYtgxJIGaSYbSxSYqIy8NpQ0NgJHtTiSPkNBCA==" length="6242573" type="application/octet-stream"/>
+            <enclosure url="https://github.com/mbjstudios/kodiak-releases/releases/download/v0.1.3-alpha/Kodiak-0.1.3-alpha.zip" sparkle:edSignature="MQA/aVBLy9DKoVMz4XoQulsti2pSTLJfT0aYrj0R0x5qfZbvJYtgxJIGaSYbSxSYqIy8NpQ0NgJHtTiSPkNBCA==" length="6242573" type="application/octet-stream"/>
         </item>
         <item>
             <title>Kodiak 0.1.2-alpha</title>
@@ -25,7 +25,7 @@
             <sparkle:version>304</sparkle:version>
             <sparkle:shortVersionString>0.1.2-alpha</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/madebyjamstudios/kodiak-releases/releases/download/v0.1.2-alpha/Kodiak-0.1.2-alpha.zip" sparkle:edSignature="/s2mNQSNPwI71hNlfJ2dSUjRpGRp/lKfmW0OHd+Su4/3Qg5nk7XDubBJseTxtzlW9dT5P3Ne/jkGwX6+o6HmAA==" length="2402387" type="application/octet-stream"/>
+            <enclosure url="https://github.com/mbjstudios/kodiak-releases/releases/download/v0.1.2-alpha/Kodiak-0.1.2-alpha.zip" sparkle:edSignature="/s2mNQSNPwI71hNlfJ2dSUjRpGRp/lKfmW0OHd+Su4/3Qg5nk7XDubBJseTxtzlW9dT5P3Ne/jkGwX6+o6HmAA==" length="2402387" type="application/octet-stream"/>
         </item>
         <item>
             <title>Kodiak 0.1.1-alpha</title>
@@ -33,7 +33,7 @@
             <sparkle:version>78</sparkle:version>
             <sparkle:shortVersionString>0.1.1-alpha</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/madebyjamstudios/kodiak-releases/releases/download/v0.1.1-alpha/Kodiak-0.1.1-alpha.zip" sparkle:edSignature="mOMIdM1AtK7yWmyPtw5kXEdNbA3Rc9LIe9ATzoVLCxXfMtoZd9vtmPSjq6/nBMuerb2xs0FahsVC/p+1yRE3Bw==" length="1546614" type="application/octet-stream"/>
+            <enclosure url="https://github.com/mbjstudios/kodiak-releases/releases/download/v0.1.1-alpha/Kodiak-0.1.1-alpha.zip" sparkle:edSignature="mOMIdM1AtK7yWmyPtw5kXEdNbA3Rc9LIe9ATzoVLCxXfMtoZd9vtmPSjq6/nBMuerb2xs0FahsVC/p+1yRE3Bw==" length="1546614" type="application/octet-stream"/>
         </item>
         <item>
             <title>Kodiak 0.1.0-alpha</title>
@@ -41,7 +41,7 @@
             <sparkle:version>58</sparkle:version>
             <sparkle:shortVersionString>0.1.0-alpha</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/madebyjamstudios/kodiak-releases/releases/download/v0.1.0-alpha/Kodiak-0.1.0-alpha.zip" sparkle:edSignature="z9Dal1VrEJzfkDAQtVp2eWlya0XcQPVkVXq3uM1ybdP61ZFbBcbYvyC1MTqwtSfGWISf3efwLjejzv2HXQy4AQ==" length="1537612" type="application/octet-stream"/>
+            <enclosure url="https://github.com/mbjstudios/kodiak-releases/releases/download/v0.1.0-alpha/Kodiak-0.1.0-alpha.zip" sparkle:edSignature="z9Dal1VrEJzfkDAQtVp2eWlya0XcQPVkVXq3uM1ybdP61ZFbBcbYvyC1MTqwtSfGWISf3efwLjejzv2HXQy4AQ==" length="1537612" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>

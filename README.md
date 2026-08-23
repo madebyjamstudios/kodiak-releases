@@ -1,15 +1,15 @@
-# Kodiak — Releases
+# Kodiak: Releases
 
-Public release feed for **Kodiak** (Made by Jam LLC) — minimal fill+key playback
+Public release feed for **Kodiak**, minimal fill+key playback
 for macOS with DeckLink output.
 
-> **Status: ALPHA.** Kodiak is early software under active development — expect
+> **Status: ALPHA.** Kodiak is early software under active development: expect
 > rough edges and breaking changes between releases. Alpha builds are marked
 > pre-release.
 
-- Download the latest version from [Releases](https://github.com/madebyjamstudios/kodiak-releases/releases).
+- Download the latest version from [Releases](https://github.com/mbjstudios/kodiak-releases/releases).
 - `appcast.xml` is the [Sparkle](https://sparkle-project.org) update feed the app
-  checks automatically — don't edit it by hand; `release.sh` in the source repo
+  checks automatically, so don't edit it by hand; `release.sh` in the source repo
   maintains it.
 
 ## Acknowledgements
